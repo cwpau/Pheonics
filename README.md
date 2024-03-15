@@ -25,3 +25,6 @@ procedure:
 4. Run process.py if screenshot is needed (run script in paraview)
 
 *adjustment of code is necessary from task to task. Take a look into trace_function.py.
+
+Results:
+![datapoints](https://github.com/cwpau/Pheonics/blob/main/result/datapoints.png)
