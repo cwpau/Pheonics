@@ -16,6 +16,7 @@ GUI.py: a trial for using a GUI out of paraview. NOT working.
 folder structure:
 
 ![alt text][folder structure.png]
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 procedure:
 1. Convert .pda to .vtk if necessary by pda_to_vtk.py
