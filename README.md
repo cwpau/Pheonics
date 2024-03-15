@@ -15,7 +15,7 @@ GUI.py: a trial for using a GUI out of paraview. NOT working.
 
 folder structure:
 
-![folder_structure](folder structure.png)
+![Alt](folder structure.png)
 
 procedure:
 1. Convert .pda to .vtk if necessary by pda_to_vtk.py
