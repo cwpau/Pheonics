@@ -15,18 +15,7 @@ GUI.py: a trial for using a GUI out of paraview. NOT working.
 
 folder structure:
 
-folder
-    |-multi_probe.py
-    |-summarize.py:
-    |-process.py:
-    |-trace_function.py
-    |-Assessment_Pt
-        |-AP.csv
-    |-Run
-        |-run001.vtk
-    |-result
-        |-run001_pic1.png
-        |-run001.vtk_AP_results.csv
+![](folder structure.png)
 
 procedure:
 1. Convert .pda to .vtk if necessary by pda_to_vtk.py
