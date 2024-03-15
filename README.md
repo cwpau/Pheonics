@@ -1,6 +1,6 @@
 # Pheonics
 
-###CFD post-processing script in Paraview. Streamlined process to manually export datapoints and create screenshots at certain angles after operations.
+### CFD post-processing script in Paraview. Streamlined process to manually export datapoints and create screenshots at certain angles after operations.
 
 
 multi_probe.py: run in paraview. reads the vtk files, reads the Assessment Pt csv and extract data points accordingly and produces csv outputs
@@ -17,12 +17,12 @@ trace_function.py: functions created based on 'trace' function in paraview. requ
 
 GUI.py: a trial for using a GUI out of paraview. NOT working.
 
-###folder structure:
+### Folder structure:
 
 ![alt text](https://github.com/cwpau/Pheonics/blob/main/folder%20structure.png)
 
 
-###procedure:
+### Procedure:
 1. Convert .pda to .vtk if necessary by pda_to_vtk.py
 2. Actual script should be multi_probe.py (run script in paraview)
 3. Followed by summarize.py to combine excels outputs
@@ -30,7 +30,7 @@ GUI.py: a trial for using a GUI out of paraview. NOT working.
 
 *adjustment of code is necessary from task to task. Take a look into trace_function.py.
 
-###Results:
+### Results:
 datapoints:</ br>
 ![datapoints](https://github.com/cwpau/Pheonics/blob/main/result/datapoints.png)
 
