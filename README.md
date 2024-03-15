@@ -31,8 +31,9 @@ GUI.py: a trial for using a GUI out of paraview. NOT working.
 *adjustment of code is necessary from task to task. Take a look into trace_function.py.
 
 ### Results:
-datapoints:
+#### Datapoints: </br>
 ![datapoints](https://github.com/cwpau/Pheonics/blob/main/result/datapoints.png)
 
-screenshot: </br>
+#### Screenshots: </br>
 ![pic](/result/run001_pic1.png)
+![pic](/result/run002_pic1.png)
