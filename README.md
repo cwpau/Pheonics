@@ -28,3 +28,5 @@ procedure:
 
 Results:
 ![datapoints](https://github.com/cwpau/Pheonics/blob/main/result/datapoints.png)
+
+![pic](/result/run001_pic1.png)
